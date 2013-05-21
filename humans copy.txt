@@ -1,0 +1,13 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+/* TEAM */
+  Jeff Liang
+  Site:
+  Twitter:
+  Location:
+
+/* THANKS */
+
+
+/* SITE */
